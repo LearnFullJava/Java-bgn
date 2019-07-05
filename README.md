@@ -1,2 +1,2 @@
 # Java-bgn
-Laboratorio de Java desde cero
+Laboratorio de Java desde cero, paso a paso.
